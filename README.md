@@ -16,4 +16,4 @@ Toda parte funcional ocorre no hook personalizado chamado useUpdateGames que pos
 ### Porque criei essa aplicação?
 Esse projeto tem como objetivo facilitar a organização de pessoas que jogam videogame e querem sistenatizar seus jogos. Além disso, nele pude aprimorar meus conceitos de refatoração e utilização de hooks personalizados!
 
-📄 Visite o projeto clicando [Aqui](https://biblioteca-jogos.vercel.app/){:target="_blank"}!
+📄 Visite o projeto clicando [Aqui](https://biblioteca-jogos.vercel.app/)!
